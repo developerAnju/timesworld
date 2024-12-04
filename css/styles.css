@@ -565,10 +565,11 @@ body{
     .image_1 {
       top: 10px;
       left: 0;
+      margin-top: 172px;
     }
     .image_2 {
       top: 0;
-      left: 20px;
+      left: 38px;
     }
     .image-container {
       margin: 0 10px;
